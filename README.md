@@ -24,8 +24,8 @@ Hello and welcome to my GitHub profile! 👋 I'm a passionate developer who enjo
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?RSanchezC169=username&show_icons=true&theme=radical)](https://github.com/RSanchezC169)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/yourusername)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RSanchezC169&layout=compact)](https://github.com/RSanchezC169)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical)](https://github.com/yourusername)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RSanchezC169&theme=radical)](https://github.com/RSanchezC169)
