@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# About Me
+
+Hello and welcome to my GitHub profile! 👋 I'm a passionate developer who enjoys exploring new technologies, solving problems, and contributing to open-source projects. Here's a little more about me:
+
+- 🌟 Focused on creating efficient and scalable solutions.
+- 💻 Skilled in multiple programming languages and frameworks.
+- 🔍 Always looking to collaborate on exciting projects.
+
+## GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/yourusername)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical)](https://github.com/yourusername)
