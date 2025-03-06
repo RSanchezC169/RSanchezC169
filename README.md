@@ -31,14 +31,6 @@ Hello and welcome to my GitHub profile! 👋 I'm a passionate developer who enjo
 
 ---
 
-## Coding Metrics
-
-[![Coding Metrics](https://github-readme-stats.vercel.app/api/wakatime?username=RSanchezC169&theme=radical)](https://wakatime.com/@RSanchezC169)
-
-> **Note**: You'll need to integrate [WakaTime](https://wakatime.com/) with your GitHub account to enable this.
-
----
-
 ## Visitor Count
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=RSanchezC169&color=blueviolet)
