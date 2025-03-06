@@ -28,4 +28,4 @@ Hello and welcome to my GitHub profile! 👋 I'm a passionate developer who enjo
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RSanchezC169&layout=compact)](https://github.com/RSanchezC169)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RSanchezC169)](https://github.com/RSanchezC169)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RSanchezC169&theme=radical)](https://github.com/RSanchezC169)
