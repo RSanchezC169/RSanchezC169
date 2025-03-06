@@ -39,7 +39,8 @@ Hello and welcome to my GitHub profile! 👋 I'm a passionate developer who enjo
 
 ---
 
-Disclaimer The code and scripts provided in this repository are for experimental and educational purposes only. They are intended to be used solely for testing and learning within environments that you own and fully control. By utilizing this code, you agree to the following:
+Disclaimer 
+The code and scripts provided in this repository are for experimental and educational purposes only. They are intended to be used solely for testing and learning within environments that you own and fully control. By utilizing this code, you agree to the following:
 
 Ownership:
 Only execute the code on systems, devices, or networks that you own or have explicit permission to use.
