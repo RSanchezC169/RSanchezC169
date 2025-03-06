@@ -38,3 +38,19 @@ Hello and welcome to my GitHub profile! 👋 I'm a passionate developer who enjo
 - 🏆 Recent Achievements: [Add any recent milestones or accomplishments].
 
 ---
+
+Disclaimer The code and scripts provided in this repository are for experimental and educational purposes only. They are intended to be used solely for testing and learning within environments that you own and fully control. By utilizing this code, you agree to the following:
+
+Ownership:
+Only execute the code on systems, devices, or networks that you own or have explicit permission to use.
+Any testing should be conducted within a Microsoft 365 tenant where you have full ownership or administrative rights.
+
+Prohibited Use:
+Misuse or illegal use of this code, such as testing in unauthorized environments or bypassing security measures without consent, is strictly prohibited.
+
+No Liability:
+The code is provided "as is" without any warranties, including but not limited to guarantees of functionality, security, or fitness for a particular purpose.
+The author is not responsible for any damages, data loss, or legal consequences arising from the use or misuse of this code.
+By downloading, cloning, or using this repository, you acknowledge and agree to these terms. Please ensure compliance with applicable laws, ethical guidelines, and organizational policies.
+
+---
