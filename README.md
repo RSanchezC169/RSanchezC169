@@ -39,9 +39,9 @@ Hello and welcome to my GitHub profile! 👋 I'm a passionate developer who enjo
 
 ## Fun Facts
 
-- 🛠️ Favorite Tools: VS Code, Git, Docker, and PowerShell.
-- 🌍 Based in [Your Location].
-- 🏆 Recent Achievements: [Add any recent milestones or accomplishments].
+- 🛠️ Favorite Tools:
+- 🌍 Based in:
+- 🏆 Recent Achievements:
 - 💡 Favorite Quote: *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
 
 ---
